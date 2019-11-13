@@ -58,14 +58,17 @@
 - 横屏模式的展示、
 - 分时图增加最近一点的数值闪动显示并在右侧画出最新价数值
 - 支持夜间模式的展示
+- ![](https://camo.githubusercontent.com/a5f22e4fc5f6bde9d4fc46eb1b8859b8bbfd831a/68747470733a2f2f7261772e6769746875622e636f6d2f4c616d6264615869616f2f53746f636b43686172742d4d50416e64726f696443686172742f6d61737465722f73637265656e73686f742f6b6c696e652e6a7067)
+- ![](https://camo.githubusercontent.com/20af982c34f9accf5893acac9c6b272364b9426b/68747470733a2f2f7261772e6769746875622e636f6d2f4c616d6264615869616f2f53746f636b43686172742d4d50416e64726f696443686172742f6d61737465722f73637265656e73686f742f6b6c696e652d6c616e642e6a7067)
 
 #### KChartView
 - https://github.com/tifezh/KChartView
 - 股票k线图
 - 支持macd,kdj,rsi,boll多种指标切换，支持横竖屏切换，支持长按，缩放，滑动，fling事件等。
+- ![](https://github.com/tifezh/KChartView/raw/master/img/demo.gif)
 
 #### KLineChartDemo
 - https://github.com/gogooing/KLineChartDemo
 - MPAndroidChart库实现了类似于同花顺效果的K线图股票应用
-![](https://github.com/gogooing/KLineChartDemo/raw/master/Screenshot/screenshot4.gif)
+- ![](https://github.com/gogooing/KLineChartDemo/raw/master/Screenshot/screenshot4.gif)
 
